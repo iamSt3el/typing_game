@@ -1,0 +1,9 @@
+/home/steel/main/typing_game/build/CMakeFiles/typing_game.dir
+/home/steel/main/typing_game/build/CMakeFiles/package.dir
+/home/steel/main/typing_game/build/CMakeFiles/package_source.dir
+/home/steel/main/typing_game/build/CMakeFiles/edit_cache.dir
+/home/steel/main/typing_game/build/CMakeFiles/rebuild_cache.dir
+/home/steel/main/typing_game/build/CMakeFiles/list_install_components.dir
+/home/steel/main/typing_game/build/CMakeFiles/install.dir
+/home/steel/main/typing_game/build/CMakeFiles/install/local.dir
+/home/steel/main/typing_game/build/CMakeFiles/install/strip.dir

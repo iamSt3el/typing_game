@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/steel/main/typing_game/build",
+  "command": "/usr/bin/g++  -I/home/steel/main/typing_game -g -o CMakeFiles/typing_game.dir/src/main.cpp.o -c /home/steel/main/typing_game/src/main.cpp",
+  "file": "/home/steel/main/typing_game/src/main.cpp"
+},
+{
+  "directory": "/home/steel/main/typing_game/build",
+  "command": "/usr/bin/g++  -I/home/steel/main/typing_game -g -o CMakeFiles/typing_game.dir/src/render.cpp.o -c /home/steel/main/typing_game/src/render.cpp",
+  "file": "/home/steel/main/typing_game/src/render.cpp"
+},
+{
+  "directory": "/home/steel/main/typing_game/build",
+  "command": "/usr/bin/g++  -I/home/steel/main/typing_game -g -o CMakeFiles/typing_game.dir/src/gui.cpp.o -c /home/steel/main/typing_game/src/gui.cpp",
+  "file": "/home/steel/main/typing_game/src/gui.cpp"
+}
+]
